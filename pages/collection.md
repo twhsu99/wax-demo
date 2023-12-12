@@ -19,3 +19,5 @@ This site's sample collection comprises a set of objects, each of which is repre
 {% include collection_gallery.html facet_by='object_type' only='map' collection='qatar' %}
 ### Panels
 {% include collection_gallery.html facet_by='object_type' only='panel' collection='qatar' %}
+### Posters 
+{% include collection_gallery.html facet_by='object_type' only='poster' collection='qatar' %}
